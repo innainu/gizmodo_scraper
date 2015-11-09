@@ -1,0 +1,7 @@
+Run:
+
+$ scrapy crawl gizmodo
+
+or 
+
+$ python run_gizmodo_spider.py
