@@ -1,3 +1,6 @@
+Uses scrapy to scrape Gizmodo website for articles and user comments.
+
+
 Run:
 
 $ scrapy crawl gizmodo
